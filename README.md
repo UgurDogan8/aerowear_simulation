@@ -6,7 +6,7 @@ Bu çalışma gerçek klinik karar sistemi değildir; tıbbi teşhis, tedavi vey
 
 ## Projenin Amacı
 
-AeroWear_TEYDEP1507 dokümanındaki hedeflerle uyumlu olarak, düşük maliyetli sensörlerden gelen ham verinin sıcaklık, nem, drift ve gürültü etkileri altında nasıl bozulabileceğini; doğrusal regresyon tabanlı kalibrasyonun hata metriklerini ne kadar iyileştirebileceğini; risk durumuna göre örnekleme ve BLE aktarım frekansının nasıl değişebileceğini göstermek amaçlanmıştır.
+Düşük maliyetli sensörlerden gelen ham verinin sıcaklık, nem, drift ve gürültü etkileri altında nasıl bozulabileceğini; doğrusal regresyon tabanlı kalibrasyonun hata metriklerini ne kadar iyileştirebileceğini; risk durumuna göre örnekleme ve BLE aktarım frekansının nasıl değişebileceğini göstermek amaçlanmıştır.
 
 Simülasyon özellikle şu başlıkları kapsar:
 
